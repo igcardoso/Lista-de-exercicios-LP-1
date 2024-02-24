@@ -1,7 +1,5 @@
 package igor_questão.pkg4;
-
 import java.util.Scanner;
-
 public class Igor_questão4 {
     public static void main(String[] args) {
         int cont = 0, number;
